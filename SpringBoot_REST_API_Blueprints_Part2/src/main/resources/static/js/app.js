@@ -17,6 +17,7 @@ var app = (function () {
 
     var publicMethod = function () {
       _loadBlueprints();
+      console.log(listBluePrints);
       
       
     };
